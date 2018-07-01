@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NUX</string>
+    <string name="document">မွတ္တမ္းမ်ားး</string>
+    <string name="btn_change_time">အလုပ္ခ်ိန္ျပင္ဆင္ရန္</string>
+    <string name="radio_duty1">ေန႔ ဂ်ဴတီ</string>
+    <string name="radio_duty2">ည ဂ်ဴတီ</string>
+    <string name="disease_desc">ဗီတာမင္ဓာတ္ေတြနဲ႔သတၱဳဓာတ္ေတြပါတဲ့ အသီးအႏွံ မ်ားမ်ားစာသုံးျခင္းျဖင့္လဲ ကာကြယ္ႏိုင္သလိုပံုမွန္ ၁၅ မီနစ္ခန္႕ ေန႕စဥ္လမ္းေလွ်ာက္ျခင္းျဖင့္လဲ
+ေလမျဖတ္ေအာင္ ေနထိုင္ႏိုင္ပါတယ္ ။
+ရာသီဥတုေဖာက္ျပန္ၿပီး အပူအေအး မညီၫြတ္၊ မမွ်တမႈ မ်ားေၾကာင့္
+ေလျဖတ္သူမ်ားစြာလဲရွိပါသည္။ ထိုသို႔ေလျဖတ္သူမ်ားတြင္
+အခ်ဳိ႕မွာ ႏွလံုး၊ ေသြးတုိး၊ ဆီးခ်ဳိစေသာ ေရာဂါ အေၾကာင္းခံရွိျခင္းေၾကာင့္ ေလျဖတ္သူမ်ားျဖစ္ေသာ္လည္း အခ်ဳိ႕လူမ်ားမွာ မည္သည့္ေရာဂါအေၾကာင္းရင္းခံမွ်မရွိဘဲ
+႐ုတ္တရက္ ေလျဖတ္သြားသူမ်ားလည္းရွိေၾကာင္း ေတြ႕ရသည္။</string>
+    <string name="disease_name">နာတာရွည္ ေလျဖတ္</string>
+    <string name="name">ပိုင္စိုးေအာင္</string>
+    <string name="age">၂၆ ႏွစ္</string>
+    <string name="agree">လက္ခံမည္</string>
+    <string name="disagree">ျငင္းပယ္မည္</string>
+</resources>

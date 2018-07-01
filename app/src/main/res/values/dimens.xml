@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_length">90dp</dimen>
+    <dimen name="line_between">12dp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="btn_margin">40dp</dimen>
+    <dimen name="_12">12dp</dimen>
+    <dimen name="circle">46dp</dimen>
+    <dimen name="title">19dp</dimen>
+    <dimen name="body">16dp</dimen>
+    <dimen name="slice">56dp</dimen>
+    <dimen name="btn_size">18sp</dimen>
+    <dimen name="_7">7dp</dimen>
+    <dimen name="radio_size">64dp</dimen>
+</resources>

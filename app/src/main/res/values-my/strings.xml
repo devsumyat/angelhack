@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NUX</string>
+    <string name="document">မှတ်တမ်းများ</string>
+    <string name="btn_change_time">အလုပ်ချိန်ပြင်ဆင်ရန်</string>
+    <string name="radio_duty1">နေ့ ဂျူတီ</string>
+    <string name="radio_duty2">ည ဂျူတီ</string>
+    <string name="disease_desc">ဗီတာမင်ဓာတ်တွေနဲ့သတ္တုဓာတ်တွေပါတဲ့ အသီးအနှံ များများစာသုံးခြင်းဖြင့်လဲ ကာကွယ်နိုင်သလိုပုံမှန် ၁၅ မီနစ်ခန့် နေ့စဉ်လမ်းလျှောက်ခြင်းဖြင့်လဲ
+လေမဖြတ်အောင် နေထိုင်နိုင်ပါတယ် ။
+ရာသီဥတုဖောက်ပြန်ပြီး အပူအအေး မညီညွတ်၊ မမျှတမှု များကြောင့်
+လေဖြတ်သူများစွာလဲရှိပါသည်။ ထိုသို့လေဖြတ်သူများတွင်
+အချို့မှာ နှလုံး၊ သွေးတိုး၊ ဆီးချိုစသော ရောဂါ အကြောင်းခံရှိခြင်းကြောင့် လေဖြတ်သူများဖြစ်သော်လည်း အချို့လူများမှာ မည်သည့်ရောဂါအကြောင်းရင်းခံမျှမရှိဘဲ
+ရုတ်တရက် လေဖြတ်သွားသူများလည်းရှိကြောင်း တွေ့ရသည်။</string>
+    <string name="disease_name">နာတာရှည် လေဖြတ်</string>
+    <string name="name">ပိုင်စိုးအောင်</string>
+    <string name="age">၂၆ နှစ်</string>
+    <string name="agree">လက်ခံမည်</string>
+    <string name="disagree">ငြင်းပယ်မည်</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NUX</string>
+    <string name="document">မွတ္တမ္းမ်ားး</string>
+    <string name="btn_change_time">အလုပ္ခ်ိန္ျပင္ဆင္ရန္</string>
+    <string name="radio_duty1">နေ့ ဂျူတီ</string>
+    <string name="radio_duty2">ည ဂျူတီ</string>
+</resources>

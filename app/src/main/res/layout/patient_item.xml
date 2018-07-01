@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/margin"
+    android:layout_marginLeft="@dimen/_12"
+    android:layout_marginStart="@dimen/_12"
+    android:layout_marginRight="@dimen/_12"
+    android:layout_marginEnd="@dimen/_12"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    card_view:cardPreventCornerOverlap="true">
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_12">
+
+            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/img_profile"
+                android:layout_width="@dimen/circle"
+                android:layout_height="@dimen/circle"
+                android:src="@drawable/boy" />
+
+            <TextView
+                android:id="@+id/txt_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_12"
+                android:layout_marginStart="@dimen/_12"
+                android:layout_toRightOf="@+id/img_profile"
+                android:text="Name"
+                android:textColor="@color/black"
+                android:textSize="@dimen/title" />
+
+            <TextView
+                android:id="@+id/txt_age"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_name"
+                android:layout_marginLeft="@dimen/_12"
+                android:layout_marginStart="@dimen/_12"
+                android:layout_toRightOf="@+id/img_profile"
+                android:text="26 yr"
+                android:textColor="@color/black"
+                android:textSize="@dimen/body" />
+
+            <TextView
+                android:id="@+id/txt_disease"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_name"
+                android:layout_marginLeft="@dimen/_12"
+                android:layout_marginStart="@dimen/_12"
+                android:layout_toRightOf="@+id/txt_age"
+                android:text="stomache"
+                android:textColor="@color/black"
+                android:textSize="@dimen/body" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/img_new"
+            android:layout_width="@dimen/slice"
+            android:layout_height="@dimen/slice"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/slice" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

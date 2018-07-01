@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NUX</string>
+    <string name="document">Document</string>
+    <string name="btn_change_time">Chage Time</string>
+    <string name="radio_duty1">Day Duty</string>
+    <string name="radio_duty2">Night Duty</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="tur">TUR</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_update">Update</string>
+    <string name="disease_desc">description</string>
+    <string name="disease_name">Stomache</string>
+    <string name="name">Paing Soe</string>
+    <string name="age">26 yr</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+</resources>
