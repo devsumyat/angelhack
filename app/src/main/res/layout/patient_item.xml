@@ -28,7 +28,7 @@
                 android:id="@+id/img_profile"
                 android:layout_width="@dimen/circle"
                 android:layout_height="@dimen/circle"
-                android:src="@drawable/boy" />
+                android:src="@drawable/jack" />
 
             <TextView
                 android:id="@+id/txt_name"

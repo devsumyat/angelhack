@@ -52,7 +52,6 @@ public class PatientAdapter extends RecyclerView.Adapter<PatientAdapter.ViewHold
     }
 
     private void bindData(Patient patient, ViewHolder holder) {
-        holder.imgProfile.setImageResource(R.drawable.girl);
         holder.txtName.setText(patient.getName());
         holder.txtAge.setText(patient.getAge());
         holder.txtDisease.setText(patient.getDisease());
